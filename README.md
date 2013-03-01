@@ -53,7 +53,7 @@ It was developed as a successor to tilt-jade to improve following:
 Credits
 -------
 
-* Boris Staal ([@_inossidabile](http://twitter.com/#!/_inossidabile))
+* Boris Staal ([@_inossidabile](http://twitter.com/#!/_inossidabile)) [![endorse](http://api.coderwall.com/inossidabile/endorsecount.png)](http://coderwall.com/inossidabile)
 
 LICENSE
 -------
