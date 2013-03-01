@@ -5,6 +5,9 @@ Jade.JS is most popular Node.JS templating framework. This gem gives
 you ability to easily compile Jade templates at server-side (similar 
 to how the Sprockets .eco engine works).
 
+[![Build Status](https://travis-ci.org/inossidabile/jade.png?branch=master)](https://travis-ci.org/inossidabile/jade)
+[![Code Climate](https://codeclimate.com/github/inossidabile/jade.png)](https://codeclimate.com/github/inossidabile/jade)
+
 Gem supposed to be used with JST engine.
 
 Example
@@ -49,8 +52,6 @@ It was developed as a successor to tilt-jade to improve following:
 
 Credits
 -------
-
-<img src="http://roundlake.ru/assets/logo.png" align="right" />
 
 * Boris Staal ([@_inossidabile](http://twitter.com/#!/_inossidabile))
 
