@@ -7,6 +7,7 @@ to how the Sprockets .eco engine works).
 
 [![Build Status](https://travis-ci.org/inossidabile/jade.png?branch=master)](https://travis-ci.org/inossidabile/jade)
 [![Code Climate](https://codeclimate.com/github/inossidabile/jade.png)](https://codeclimate.com/github/inossidabile/jade)
+[![endorse](http://api.coderwall.com/inossidabile/endorsecount.png)](http://coderwall.com/inossidabile)
 
 Gem supposed to be used with JST engine.
 
@@ -53,7 +54,7 @@ It was developed as a successor to tilt-jade to improve following:
 Credits
 -------
 
-* Boris Staal ([@_inossidabile](http://twitter.com/#!/_inossidabile)) [![endorse](http://api.coderwall.com/inossidabile/endorsecount.png)](http://coderwall.com/inossidabile)
+* Boris Staal ([@_inossidabile](http://twitter.com/#!/_inossidabile))
 
 LICENSE
 -------
