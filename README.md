@@ -4,7 +4,6 @@ Jade
 [![Gem Version](https://badge.fury.io/rb/jade.png)](http://badge.fury.io/rb/jade)
 [![Build Status](https://travis-ci.org/inossidabile/jade.png?branch=master)](https://travis-ci.org/inossidabile/jade)
 [![Code Climate](https://codeclimate.com/github/inossidabile/jade.png)](https://codeclimate.com/github/inossidabile/jade)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/inossidabile/jade/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Jade.JS is most popular Node.JS templating framework. This gem gives
 you ability to easily compile Jade templates at server-side (similar 
@@ -58,3 +57,5 @@ License
 -------
 
 It is free software, and may be redistributed under the terms of MIT license.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/inossidabile/jade/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
