@@ -20,9 +20,11 @@ describe Jade::Compiler do
 
   it 'should work fine with JST' do
     context = ExecJS.compile %{
+      var window = {};
       #{asset_for('application.js').to_s}
+      var jade = window.jade;
       html = JST['sample']({name: 'Yorik'})
     }
-    context.eval('html').should == "<!DOCTYPE html><head><title>Hello, Yorik :)</title></head><body>Yap, it works\n</body>"
+    context.eval('html').should == "<!DOCTYPE html><head><title>Hello, Yorik :)</title></head><body>Yap, it works</body>"
   end
 end

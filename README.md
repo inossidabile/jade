@@ -18,7 +18,7 @@ Example
 
 sample.jst.jade:
 
-    !!!5
+    doctype html
     head
       title Hello, #{name} :)
     body

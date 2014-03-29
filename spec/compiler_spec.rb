@@ -7,7 +7,6 @@ describe Jade::Compiler do
 
   it "should respect default options" do
     @compiler.options.should == {
-      :client => true,
       :compileDebug => false
     }
   end
@@ -17,7 +16,7 @@ describe Jade::Compiler do
   end
 
   it "should define Jade.JS compiler version" do
-    @compiler.jade_version.should == "0.20.0"
+    @compiler.jade_version.should == "1.3.0"
   end
 
   it "should compile small thing" do
